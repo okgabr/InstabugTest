@@ -1,2 +1,2 @@
 # InstabugTest
-This is a *demo* reposotiry.
+This is a *demo* repository.
